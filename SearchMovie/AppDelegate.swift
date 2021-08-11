@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SearchMovie
 //
-//  Created by Felipe Ignacio Zapata Riffo on 28-07-21.
+//  Created by Felipe Ignacio Zxapata Riffo on 28-07-21.
 //
 
 import UIKit
